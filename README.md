@@ -1,2 +1,2 @@
 # Calculate-PI
-Calculating pi using the Nilakantha series
+Calculating pi using the Nilakantha series for more information on the series, please visit https://www.maa.org/sites/default/files/pdf/upload_library/22/Allendoerfer/1991/0025570x.di021167.02p0073q.pdf
